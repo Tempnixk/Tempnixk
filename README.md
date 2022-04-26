@@ -5,12 +5,18 @@
 
 <SNS>
  
+<a href="https://www.linkedin.com/in/%EC%A1%B0%ED%98%84%EB%AF%BC/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://tempnixk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tumblr&logoColor=black"/></a>
 <a href="https://www.instagram.com/hm_hm_hm01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuudquark%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
+
+ 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fuudquark%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
-
+[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=uudquark&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/uudquark/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uudquark&layout=compact)](https://github.com/uudquark/github-readme-stats)
+ 
  💻 tech 💻
  
  🟩 used as the main
