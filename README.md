@@ -1,7 +1,6 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2bc0e4,100:eaecc6&height=300&section=header&text=HyunMin%20Cho&fontSize=90&fontColor=e8778c&animation=scaleIn)
 
 <SNS>
  
