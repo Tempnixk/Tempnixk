@@ -1,7 +1,10 @@
+<!--
 <div align="center">
-
-
-
+ 
+[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tempnixk&layout=compact)](https://github.com/Tempnixk/github-readme-stats)
+ 
 <SNS>
  
 <a href="https://www.linkedin.com/in/%EC%A1%B0%ED%98%84%EB%AF%BC/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
@@ -12,38 +15,26 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTempnixk%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 
-[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tempnixk&layout=compact)](https://github.com/Tempnixk/github-readme-stats)
- 
  💻 tech 💻
  
- 🟩 used as the main
  
- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
+
+
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
 
-
-🟦 used at least once
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=AndroidStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=Roblox&logoColor=white"/></a>
 
 💡 collaborate 💡
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>
+
+
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/></a>
@@ -58,5 +49,5 @@
 
 </div>
 
-
+-->
 
