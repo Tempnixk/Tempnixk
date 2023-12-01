@@ -1,53 +1,18 @@
-<!--
-<div align="center">
- 
-[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tempnixk&layout=compact)](https://github.com/Tempnixk/github-readme-stats)
- 
 <SNS>
  
 <a href="https://www.linkedin.com/in/%EC%A1%B0%ED%98%84%EB%AF%BC/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://tempnixk.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat-square&logo=Tumblr&logoColor=black"/></a>
 <a href="https://www.instagram.com/hm_hm_hm01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
- 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTempnixk%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
+공군 소프트웨어 개발병으로 복무중입니다. (2023.05 ~ 2025.02)
 
- 💻 tech 💻
+- 숭실대학교 컴퓨터학부 전공 (2020.02 ~ )
+- 애플개발자아카데미 1기 (2022.03 ~ 2022.12)
+- 스마일게이트 윈터캠프 2기 (2022.12 ~ 2023.02)
+
+
+[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tempnixk&layout=compact)](https://github.com/Tempnixk/github-readme-stats)
  
- 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=Csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"/></a>
 
-
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/></a>
-
-
-💡 collaborate 💡
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>
-
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/></a>
-
-
-🎨 Design 🎨
-
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=Sketch&logoColor=white"/></a>
-
-
-
-</div>
-
--->
 
