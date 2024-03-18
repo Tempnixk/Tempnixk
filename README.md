@@ -12,7 +12,7 @@
 - 스마일게이트 윈터캠프 2기 (2022.12 ~ 2023.02)
 
 
-[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tempnixk&layout=compact)](https://github.com/Tempnixk/github-readme-stats)
+[![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats) 
  
 
 
