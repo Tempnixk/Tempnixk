@@ -19,3 +19,8 @@ Welcome to my GitHub profile!
 
 ## GitHub Stats
 [![HyunMin Cho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tempnixk&count_private=true&show_icons=true&theme=chartreuse-dark&bg_color=DEG,085078,85d8ce)](https://github.com/Tempnixk/github-readme-stats)
+
+## Mini Web Game
+
+Looking for a quick break? [Play this simple guessing game](game/index.html) right in your browser!
+=======
